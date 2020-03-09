@@ -12,3 +12,5 @@
 你可以下载bikeshare.py到本地，然后运行python 文件，在本地计算机上随意测试
 
 同时，也可以通过bikeshare.ipynb 了解源代码的构成以及运行逻辑。
+
+若加载该文件失败，可以访问这个网站：https://nbviewer.jupyter.org/ ，把github上对应的文件的url输进去，就可以在线渲染jupyter文件了。
